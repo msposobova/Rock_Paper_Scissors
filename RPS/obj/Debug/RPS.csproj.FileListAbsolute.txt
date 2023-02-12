@@ -1,0 +1,6 @@
+C:\Users\maryn\OneDrive\Desktop\Program\RPS_Game\RPS\obj\Debug\RPS.csproj.AssemblyReference.cache
+C:\Users\maryn\OneDrive\Desktop\Program\RPS_Game\RPS\obj\Debug\RPS.csproj.CoreCompileInputs.cache
+C:\Users\maryn\OneDrive\Desktop\Program\RPS_Game\RPS\bin\Debug\RPS.dll
+C:\Users\maryn\OneDrive\Desktop\Program\RPS_Game\RPS\bin\Debug\RPS.pdb
+C:\Users\maryn\OneDrive\Desktop\Program\RPS_Game\RPS\obj\Debug\RPS.dll
+C:\Users\maryn\OneDrive\Desktop\Program\RPS_Game\RPS\obj\Debug\RPS.pdb

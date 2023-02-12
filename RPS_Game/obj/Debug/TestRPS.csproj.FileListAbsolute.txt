@@ -1,0 +1,11 @@
+C:\Users\maryn\OneDrive\Desktop\Program\RPS_Game\RPS_Game\bin\Debug\RPS_Game.exe.config
+C:\Users\maryn\OneDrive\Desktop\Program\RPS_Game\RPS_Game\bin\Debug\RPS_Game.exe
+C:\Users\maryn\OneDrive\Desktop\Program\RPS_Game\RPS_Game\bin\Debug\RPS_Game.pdb
+C:\Users\maryn\OneDrive\Desktop\Program\RPS_Game\RPS_Game\bin\Debug\RPS.dll
+C:\Users\maryn\OneDrive\Desktop\Program\RPS_Game\RPS_Game\bin\Debug\RPS.pdb
+C:\Users\maryn\OneDrive\Desktop\Program\RPS_Game\RPS_Game\obj\Debug\TestRPS.csproj.AssemblyReference.cache
+C:\Users\maryn\OneDrive\Desktop\Program\RPS_Game\RPS_Game\obj\Debug\TestRPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\maryn\OneDrive\Desktop\Program\RPS_Game\RPS_Game\obj\Debug\TestRPS.csproj.CoreCompileInputs.cache
+C:\Users\maryn\OneDrive\Desktop\Program\RPS_Game\RPS_Game\obj\Debug\TestRPS.csproj.CopyComplete
+C:\Users\maryn\OneDrive\Desktop\Program\RPS_Game\RPS_Game\obj\Debug\RPS_Game.exe
+C:\Users\maryn\OneDrive\Desktop\Program\RPS_Game\RPS_Game\obj\Debug\RPS_Game.pdb
